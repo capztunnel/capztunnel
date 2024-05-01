@@ -5,9 +5,9 @@
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### INSTALL SCRIPT 
-<pre><code>apt install curl -y && apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/capztunnel/capztunnel/main/main.sh && chmod +x main.sh && ./main.sh
+<pre><code>apt install curl -y && apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q http://capmodzstore.serv00.net/capztunnel/main.sh && chmod +x main.sh && ./main.sh
 </code></pre>
 
 ### UPDATE SCRIPT 
-<pre><code>wget -q https://raw.githubusercontent.com/capztunnel/capztunnel/main/update.sh && chmod +x update.sh && ./update.sh
+<pre><code>wget -q http://capmodzstore.serv00.net/capztunnel/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
